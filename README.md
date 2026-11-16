@@ -2,7 +2,7 @@
 
 Professional work samples demonstrating enterprise privacy operations, regulatory applicability screening, privacy risk assessment, third-party risk, and responsible AI governance.
 
-**[Explore the portfolio website](https://mikeolu700-gif.github.io/bloomdale-privacy-ai-governance/)**
+**[Explore the portfolio website](https://bloomdale-privacy-ai-governance.pages.dev/)**
 
 ## Published case studies
 
