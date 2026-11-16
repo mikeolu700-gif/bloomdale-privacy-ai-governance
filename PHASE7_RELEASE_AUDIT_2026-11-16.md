@@ -44,3 +44,15 @@
 ## Interpretation
 
 The case studies are synthetic portfolio demonstrations, not deployed controls, production compliance evidence, or legal advice. A fictional **production HOLD** decision in a case study does not block publication of that professional work sample.
+
+## Cloudflare Pages publication and user acceptance update (16 November 2026)
+
+- **Hosting migration:** Cloudflare Pages deployment successful; production URL: https://bloomdale-privacy-ai-governance.pages.dev/
+- **Production source:** GitHub repository `mikeolu700-gif/bloomdale-privacy-ai-governance`, branch `main`; Cloudflare dashboard showed automatic deployments enabled.
+- **Homepage:** User provided a desktop browser screenshot showing the live BloomDale homepage and navigation.
+- **Five case studies and supporting downloads:** User explicitly confirmed all five case studies and their supporting downloads work on Cloudflare Pages.
+- **Mobile source-code review:** The site includes a viewport meta tag and a responsive breakpoint at 650px. Phase 7 added wrapped navigation links, a single-column mobile card layout, responsive heading sizing, and overflow protection. These changes were committed to GitHub; live mobile rendering has **not** been independently tested.
+- **Final gate:** Source publication and user-reported document acceptance **PASS**. Final phone-browser acceptance **PENDING**. Do not describe mobile testing as completed until confirmed on a real mobile viewport.
+- **Original GitHub Pages address:** Retained as a secondary/backup address during migration; Cloudflare Pages is the primary public portfolio URL.
+
+**Release classification:** Published initial portfolio, awaiting final mobile acceptance sign-off.
