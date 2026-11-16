@@ -1,0 +1,42 @@
+{
+  "package": "BDC-OPS-004 v1.1 reconciled",
+  "scope": "Only BDC-OPS-004; no deletion or replacement of other published projects",
+  "source": "BDC-Portfolio_Updated_All_Packages_2026-11-16.zip",
+  "files": [
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_Consolidated_ROPA_Case_Study_v1.1.docx",
+      "sha256": "994c4fca63b48e19d3189e072ada4f1bf9f7459b3c9ef010a6efaed7a420931f",
+      "bytes": 555466
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_Consolidated_ROPA_Case_Study_v1.1.pdf",
+      "sha256": "26b6691ff4846e83b6d9d2467caa2f69451b5762761b131ed96c155cff5997b5",
+      "bytes": 519101
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_Enterprise_ROPA_Workbook_v1.1.xlsx",
+      "sha256": "46114bbbfabb78c08340e216122dcb28c2a879d3ff4cda2199356d1e9c9df248",
+      "bytes": 47569
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_Executive_Dashboard_v1.1.pptx",
+      "sha256": "44cefb76d7926753ac4a173d87e19ad2688d75e80cbe7b7757d54e467dd8cce0",
+      "bytes": 578513
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_ROPA_Operating_Procedure_v1.1.docx",
+      "sha256": "3291d2b6324c1d2464813dd51c0950cdb8445f04bf0ceb60f4075ff868c978c9",
+      "bytes": 16268
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/BDC-OPS-004_ROPA_Operating_Procedure_v1.1.pdf",
+      "sha256": "9969a08be4d1e75b56eb38d2f5be7d415f18da284242d9d73571f66bc6cd6556",
+      "bytes": 88810
+    },
+    {
+      "path": "portfolio/BDC-OPS-004/README.md",
+      "sha256": "850326ae693cd27838c5fc146428d16063fd1a5db357535e9db0692155822782",
+      "bytes": 2732
+    }
+  ]
+}
