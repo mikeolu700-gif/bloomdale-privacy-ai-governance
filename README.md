@@ -22,7 +22,7 @@ All case studies use **Meridian Digital Holdings**, a fictional enterprise, and 
 
 ## Release status
 
-Five case studies and their homepage file links are published in GitHub. See the [Phase 7 release audit](PHASE7_RELEASE_AUDIT_2026-11-16.md) for the verification scope and outstanding browser-based acceptance checks.
+**Initial portfolio released and closed on 16 November 2026.** All five case studies, supporting downloads, desktop presentation, and mobile layout passed publication and owner acceptance checks. See the [Phase 7 release audit and final sign-off](PHASE7_RELEASE_AUDIT_2026-11-16.md) for the verification scope and limitations.
 
 **Prepared by:** Olumuyiwa Sikiru Michael  
 **Portfolio organization:** BloomDale Capital LLC
