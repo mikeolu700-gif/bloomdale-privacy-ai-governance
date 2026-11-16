@@ -56,3 +56,26 @@ The case studies are synthetic portfolio demonstrations, not deployed controls, 
 - **Original GitHub Pages address:** Retained as a secondary/backup address during migration; Cloudflare Pages is the primary public portfolio URL.
 
 **Release classification:** Published initial portfolio, awaiting final mobile acceptance sign-off.
+
+## Final acceptance and project closure (16 November 2026)
+
+**Decision: APPROVED FOR PUBLIC PORTFOLIO RELEASE. Initial project CLOSED.**
+
+The portfolio owner explicitly confirmed that the updated BloomDale website displays correctly on a phone, following the prior confirmation that all five case studies and their supporting downloads work on Cloudflare Pages.
+
+Final acceptance gates:
+- Five case studies published: **PASS** (repository verification)
+- Linked PDFs and supporting downloads: **PASS** (owner acceptance on Cloudflare Pages)
+- Desktop homepage: **PASS** (owner screenshot)
+- Mobile layout: **PASS** (owner acceptance on phone)
+- Cloudflare Pages hosting: **PASS** (successful deployment screenshot)
+- GitHub source and automatic deployments: **PASS** (connected production branch)
+- Synthetic-data and fictional-scenario disclosures: **DOCUMENTED**
+
+**Primary public URL:** https://bloomdale-privacy-ai-governance.pages.dev/
+
+**Closure scope:** Initial professional portfolio publication and user acceptance. Closure does **not** certify the fictional enterprise as compliant, independently validate every regulatory interpretation or workbook calculation, or imply production deployment of the simulated controls.
+
+**Post-closure:** Maintain the GitHub repository and Cloudflare deployment; future case studies or substantive revisions belong to a separately scoped enhancement phase. The original GitHub Pages address may remain available as a backup.
+
+The earlier 'final phone-browser acceptance PENDING' release-gate notation is superseded by this signed-off closure entry.
